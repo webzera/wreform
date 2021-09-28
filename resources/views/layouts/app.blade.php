@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>Reform J</title>
+        <title>Blog J</title>
         <meta content="WORLD BE RIGHTLY REFORMED FOR STABLE PEACE" name="description">
         <meta content="World Reform Foundation, Worldreformfoundation, webzera, Mannargudi, Charity, Covid" name="keywords">
         <meta name="author" content="John webzera">
